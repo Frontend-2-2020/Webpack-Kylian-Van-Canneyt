@@ -45,7 +45,7 @@
     "webpack-dev-server": "^3.8.1",
     "webpack-merge": "^4.2.2",
     "eslint-utils": ">=1.4.1",
-    "lodash": ">=4.17.13",
+    "lodash": ">=4.17.21",
     "tar": ">=2.2.2",
     "fstream": ">=1.0.12"
   },
